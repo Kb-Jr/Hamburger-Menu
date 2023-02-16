@@ -209,7 +209,7 @@ nav li a:hover{
     font-size: 0.8rem;
     padding-bottom: 5px;
     color: var(--primaryColor);
-    border-bottom: 1px solid var(--primaryColor);
+    border-bottom: 1px solid #434242;
   }
   
   section#about {
